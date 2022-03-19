@@ -1,0 +1,6 @@
+certifi==2021.10.8
+cmake==3.22.3
+dlib @ file:///C:/Users/rpg05/Desktop/P7/Project6/Install-dlib-main/dlib-19.19.0-cp38-cp38-win_amd64.whl
+numpy==1.22.3
+opencv-python==4.5.5.64
+wincertstore==0.2
